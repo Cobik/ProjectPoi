@@ -140,10 +140,10 @@ public class EmailAttachmentReceiver {
     public static void main(String[] args) {
 //        String host = "pop.gmail.com";
 //        String port = "995";
-//        String userName = "javidan.hajizada@gmail.com";
-//        String password = "war_java_gmail_99";
+//        String userName = "";
+//        String password = "";
 //
-//        String saveDirectory = "/Users/cobik99/Documents/Projects/ProjectPoi/";
+//        String saveDirectory = "";
 //
 //        EmailAttachmentReceiver receiver = new EmailAttachmentReceiver();
 //        receiver.setSaveDirectory(saveDirectory);
